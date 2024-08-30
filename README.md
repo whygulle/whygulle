@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whygulle&label=Profile%20views&color=0e75b6&style=flat" alt="whygulle" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/yogeshgulle" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/yogeshgulle?logo=twitter&style=for-the-badge" alt="https://twitter.com/yogeshgulle" /></a> </p>
+<p align="left"> <a href="https://twitter.com/yogeshgulle" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/yogeshgulle?logo=twitter&style=for-the-badge" alt="https://twitter.com/yogeshgulle" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
